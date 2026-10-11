@@ -1,4 +1,3 @@
-# webcraft1
 # WebCraft AI — AI-Powered Website Generator Agent
 
 A production-minded, full-stack AI website builder and interactive IDE that turns natural-language descriptions into complete, responsive website experiences with live preview, interactive editing, targeted regeneration, runnable code export, and instant sharing.
